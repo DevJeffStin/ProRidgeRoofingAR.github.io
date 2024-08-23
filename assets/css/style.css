@@ -996,7 +996,7 @@ th:nth-child(2n), td:nth-child(2n){
 
 .container{
 	width: 100%;
-	max-width: 1200px;
+	max-width: 1400px;
 	margin: 0 auto;
 	box-sizing: border-box;
 }
@@ -2209,7 +2209,7 @@ video::-webkit-media-controls-panel{
 .apart-card{
 	color: var(--white);
 	background: var(--color-3);
-	
+	padding: 40px 20px;
 }
 
 .apart-card h2{
