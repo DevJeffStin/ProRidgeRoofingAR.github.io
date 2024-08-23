@@ -2192,6 +2192,7 @@ video::-webkit-media-controls-panel{
 
 .hero_overlay h1{
 	font-weight: 700;
+	color: var(--white);
 }
 
 .hero_overlay div{
