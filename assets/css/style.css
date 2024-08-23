@@ -2213,6 +2213,10 @@ video::-webkit-media-controls-panel{
 
 }
 
+.video-section div{
+	max-width: 800px;
+}
+
 .video-section h2{
 	margin-top: 0;
 }
