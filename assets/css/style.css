@@ -2192,6 +2192,7 @@ video::-webkit-media-controls-panel{
 }
 
 .video-section h2{
+	color: var(--white);
 	margin-top: 0;
 }
 
