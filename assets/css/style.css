@@ -1,16 +1,16 @@
 :root{
     /* Standard Colors */
-	--color-1: rgba(158, 240, 217, 1);
-	--color-2: rgba(196, 221, 220, 1);
-	--color-3: rgba(71, 123, 119, 1);
-	--color-4: rgba(216, 210, 184, 1);
-	--color-5: rgba(239, 237, 204, 1);
-	--color-6: rgba(243, 221, 121, 1);
-	--color-7: rgba(206, 71, 71, 1);
+	--color-1: rgba(235, 40, 62, 1);
+	--color-2: rgba(40, 40, 40, 1);
+	--color-3: rgba(73, 73, 73, 1);
+	--color-4: rgba(73, 73, 73, 1);
+	--color-5: rgba(73, 73, 73, 1);
+	--color-6: rgba(73, 73, 73, 1);
+	--color-7: rgba(73, 73, 73, 1);
 
-	--grey-light: rgba(230, 239, 246, 1);
-	--grey: rgba(208, 225, 238, 1);
-	--grey-dark: rgba(188, 212, 230, 1);
+	--grey-light: rgba(120, 120, 120, 1);
+	--grey: rgba(73, 73, 73, 1);
+	--grey-dark: rgba(40, 40, 40, 1);
 	--white: rgba(255,255,255,1);
 	--black: rgba(20, 20, 20, 1);
 	
@@ -68,9 +68,9 @@
 	--special-1: 15px;
 
 	/* Font Names */
-	--headers: "Source Code Pro", monospace;
-	--body: 'Questrial', sans-serif;
-	--display: 'Bebas Neue', sans-serif;
+	--headers: "Gabarito", sans-serif
+	--body: "Ubuntu", sans-serif;
+	--display: "Gabarito", sans-serif
 	--fancy: 'thirsty-rough-two', 'Style Script' , sans-serif;
 	
 	/* Swiper Colors*/
