@@ -1188,7 +1188,7 @@ th:nth-child(2n), td:nth-child(2n){
 /*============ Header =========== */
 
 .page_header{
-	background: var(--black);
+	background: var(--color-3);
 	display: flex;
 	align-items: stretch;
 	justify-content: space-between;
