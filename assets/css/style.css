@@ -1796,35 +1796,9 @@ th:nth-child(2n), td:nth-child(2n){
 	text-underline-offset: 6px;
 }
 
-/*========== Team Cards ==========*/
-
-.id-float{
-	float: right;
-   	width: 200px;
-    	background: var(--color-2);
-    	padding: 20px 40px;
-	margin-left: 30px;
-}
-
-.id-float img{
-	aspect-ratio: 1/1;
-}
-
-.id-float p{
-
-}
 
 
-/*========== about Page ==========*/
-.contact_infotab p{
-	margin: 0;
-}
-.contact_infotab h3{
-	margin-top: 20px;
-}
-.contact_infotab a{
-	display: block;
-}
+
 
 /*========== Modal ===========*/
 
@@ -2219,6 +2193,12 @@ video::-webkit-media-controls-panel{
 
 .video-section h2{
 	margin-top: 0;
+}
+
+
+
+.contact-seciton{
+	padding: 60px;
 }
 
 /* ========= App ========== */
