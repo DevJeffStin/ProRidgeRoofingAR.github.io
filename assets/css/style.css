@@ -857,7 +857,7 @@ ul{
 	transition: color .5s ease, background-color .5s ease;
 	align-items: center;
 	justify-content: center;
-	border-radius: 15px;
+	margin: 5px;
 }
 
 .btn i{
@@ -865,14 +865,14 @@ ul{
 }
 
 .btn--primary{
-	color: var(--color-3);
-	background-color: var(--white); 
+	color: var(--black);
+	background-color: var(--color-1); 
 }
 
 .btn--primary:hover, .btn--primary:focus{
-	color: var(--white);
-	background-color: var(--color-3);
-	border-color: var(--white);
+	color: var(--black);
+	background-color: var(--white);
+	border-color: var(--black);
 }
 
 .btn--secondary{
@@ -2194,6 +2194,7 @@ video::-webkit-media-controls-panel{
 	font-weight: 700;
 	color: var(--white);
 }
+
 
 .hero_overlay div{
 	display: flex;
