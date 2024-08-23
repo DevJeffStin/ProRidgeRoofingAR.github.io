@@ -2208,6 +2208,15 @@ video::-webkit-media-controls-panel{
 }
 
 
+
+.video-section{
+
+}
+
+.video-section h2{
+	margin-top: 0;
+}
+
 /* ========= App ========== */
 
 .overlay--hero2{
