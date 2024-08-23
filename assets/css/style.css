@@ -2218,6 +2218,7 @@ video::-webkit-media-controls-panel{
 
 .apart-card i{
 	color: var(--color-1);
+	font-size: 8rem;
 }
 
 
