@@ -454,6 +454,11 @@ ul{
 	color: var(--black);
 }
 
+.bg-roof{
+	background: var(--black);
+	background-image: url("assets/images/group.2404160544550.jpg"); 
+}
+
 /*===== Gradients =====*/
 /* add angle degree amount to the end of a gredient class if you need to use the same colors but in a different direction i.e. bg-navy-gradient-90*/
 /* add radial to the end of a gradient class if the gradient is a radial i.e. .bg-grey-gradient-radial*/
