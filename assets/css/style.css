@@ -2195,11 +2195,13 @@ video::-webkit-media-controls-panel{
 	color: var(--white);
 }
 
+.hero_overlay a{
+	color: var(--white);
+}
 
 .hero_overlay div{
 	display: flex;
 }
-
 
 .hero_video{
 	aspect-ratio: 26/9;
