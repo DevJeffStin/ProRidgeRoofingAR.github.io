@@ -2188,7 +2188,8 @@ video::-webkit-media-controls-panel{
 }
 
 .video-section div{
-	max-width: 600px;
+	max-width: 50%;
+	width: 100%;
 }
 
 .video-section h2{
