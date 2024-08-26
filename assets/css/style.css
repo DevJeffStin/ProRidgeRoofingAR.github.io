@@ -2220,7 +2220,7 @@ video::-webkit-media-controls-panel{
 	color: var(--white);
 	background: var(--color-3);
 	padding: 40px 20px;
-	height: 380px;
+	height: 330px;
 }
 
 .apart-card h2{
