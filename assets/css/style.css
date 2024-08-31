@@ -457,6 +457,8 @@ ul{
 .bg-roof{
 	background: var(--black);
 	background-image: url("/assets/images/group.2404160544550.jpg"); 
+	padding-rop: 100px;
+	padding-bottom: 100px;
 }
 
 /*===== Gradients =====*/
@@ -1848,7 +1850,8 @@ th:nth-child(2n), td:nth-child(2n){
 
 .swiper{
 	touch-action: pan-x !important;
-	background: var(--white);
+	background: var(--color-3);
+	color: var(--white);
 }
 
 .mySwiper2{
