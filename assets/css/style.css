@@ -1211,11 +1211,11 @@ th:nth-child(2n), td:nth-child(2n){
 	line-height: 0;
 	display: flex;
 	align-items: center;
-	padding: 25px;
-	height: 100px;
+	padding: 10px;
+	height: 150px;
 	margin-top: -10px;
 	transition: all .3s linear;
-	background: var(--black);
+	background: var(--white);
   	border-bottom: 4px solid var(--color-1);
   	border-right: 4px solid var(--color-1);
   	border-left: 4px solid var(--color-1);
@@ -1226,7 +1226,7 @@ th:nth-child(2n), td:nth-child(2n){
 }
 
 .logo{
-	width: 260px;
+	width: 170px;
 }
 
 .page_header ul:not(.menu__items){
