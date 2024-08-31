@@ -1848,6 +1848,7 @@ th:nth-child(2n), td:nth-child(2n){
 
 .swiper{
 	touch-action: pan-x !important;
+	background: var(--white);
 }
 
 .mySwiper2{
@@ -1859,6 +1860,12 @@ th:nth-child(2n), td:nth-child(2n){
 	width: 100%;
 	object-fit: cover;
 	object-position: top center;
+}
+
+.swiper .swiper-slide{
+	display: flex;
+  	align-content: center;
+  	justify-content: center;
 }
 
 .modal2{
