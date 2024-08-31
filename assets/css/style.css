@@ -2247,6 +2247,20 @@ video::-webkit-media-controls-panel{
 	justify-content: center;
 }
 
+
+.type-card{
+	color: var(--white);
+	background: var(--color-3);
+	padding: 40px 20px;
+}
+
+.type-card h2{
+	color: var(--white);
+}
+
+
+
+
 .contact-section{
 	padding: 60px;
 }
