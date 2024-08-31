@@ -2228,10 +2228,12 @@ video::-webkit-media-controls-panel{
 	background: var(--color-3);
 	padding: 40px 20px;
 	height: 330px;
+	width: 28%;
 }
 
 .apart-card h2{
 	color: var(--white);
+	text-align: center;
 }
 
 .apart-card i{
