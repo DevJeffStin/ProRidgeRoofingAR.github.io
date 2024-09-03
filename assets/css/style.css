@@ -457,8 +457,9 @@ ul{
 .bg-roof{
 	background: var(--black);
 	background-image: url("/assets/images/group.2404160544550.jpg"); 
-	padding-rop: 100px;
-	padding-bottom: 100px;
+	padding-top: 100px;
+    	padding-bottom: 100px;
+    	background-size: cover;
 }
 
 /*===== Gradients =====*/
