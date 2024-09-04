@@ -2106,6 +2106,13 @@ video::-webkit-media-controls-panel{
 	aspect-ratio: 26/9;
 }
 
+.hero_catch{
+	
+}
+
+.hero_catch p{
+	    margin: auto 10px;
+}
 
 
 .video-section{
