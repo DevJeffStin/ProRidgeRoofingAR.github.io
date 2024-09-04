@@ -357,6 +357,9 @@ ul{
 	text-shadow: 2px 2px 4px var(--overlay-black);
 }
 
+.underline{
+	text-decoration: underline;
+}
 
 /*========== Color Classes ==========*/
 
