@@ -53,10 +53,10 @@
 	--overlay-black-strong: rgba(20, 20, 20,.75);
 	
 	/* Default Sizes */
-	--default: 40px;
+	--default: 60px;
 	--half: 20px;
         --fourth: 10px;
-	--double: 80px;
+	--double: 120px;
 	--quad: 160px;
 	
 	/* variable Sizes */
