@@ -1957,6 +1957,14 @@ footer{
 	margin-bottom: 10px;
 }
 
+footer a, footer p{
+	color: var(--white);
+}
+
+footer a:hover{
+	font-weight: 600;
+}
+
 /*========== Swiper Overrides ==========*/
 
 .swiper-button-prev, .swiper-button-next{
