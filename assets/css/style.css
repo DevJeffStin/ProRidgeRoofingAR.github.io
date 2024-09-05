@@ -1339,6 +1339,11 @@ th:nth-child(2n), td:nth-child(2n){
 	font-size: 1rem;
 }
 
+.header_link .fa-brands {
+    font-size: 30px;
+    color: var(--color-1);
+}
+
 .dropbtn{
 	-webkit-appearance: none;
 	-moz-appearance: none;
