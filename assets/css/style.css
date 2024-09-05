@@ -3134,8 +3134,12 @@ label div:first-of-type:not(.location_min-height,.featured){
 		height: 80px;
 		padding: 0 0px;
 	}
+	.logo__link{
+		height: 120px;
+	}
 	.logo {
 		padding: 10px;
+		width: 120px;
 	}
 	.menu_button{
 		display: flex;
@@ -3169,7 +3173,7 @@ label div:first-of-type:not(.location_min-height,.featured){
 		margin: 0;
 		width: 95%;
 		right: 0px;
-		padding-top: 30px;
+		padding-top: 120px;
 	}
 
 	.menu__items .menu__item{
