@@ -1647,7 +1647,6 @@ th:nth-child(2n), td:nth-child(2n){
 	width: 5rem;
 	cursor: pointer;
 	z-index: 11;
-	border: 1px solid var(--overlay-color-1-strong)
 }
 
 .menu_button__lines:before,
