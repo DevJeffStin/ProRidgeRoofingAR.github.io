@@ -2888,6 +2888,7 @@ label div:first-of-type:not(.location_min-height,.featured){
 	.hero_img{
 		aspect-ratio: 1;
 		object-fit: cover;
+		height: 800px;
 	}
 	.hero_overlay{
 		text-align: center;
