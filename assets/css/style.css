@@ -3041,7 +3041,6 @@ label div:first-of-type:not(.location_min-height,.featured){
 	}
 	
 	.page_header a{
-		color: var(--black);
 		padding: 10px;
 		text-align: center;
 	}
@@ -3154,8 +3153,7 @@ label div:first-of-type:not(.location_min-height,.featured){
 		height: calc(100vh - 100%);
 		width: 0%;
 		top: 100%;
-		
-		background: var(--white);
+		background: var(--color-2);
 		display: block;
 		padding: 1rem;
 		overflow-y: auto;
@@ -3386,6 +3384,9 @@ label div:first-of-type:not(.location_min-height,.featured){
 	}
 	.location_min-height {
 	  min-height: 150px;
+	}
+	.header_link .fa-brands {
+	    font-size: 90px;
 	}
 }
 
