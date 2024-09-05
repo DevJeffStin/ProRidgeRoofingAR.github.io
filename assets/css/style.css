@@ -2942,7 +2942,12 @@ label div:first-of-type:not(.location_min-height,.featured){
 		column-gap: 20px;
 	}
 	
-	
+	.video-section div {
+        	max-width: unset;
+	}
+	.apart-card{
+	        width: unset;
+	}
 	
 }
 
