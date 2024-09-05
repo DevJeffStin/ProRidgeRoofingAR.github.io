@@ -2949,6 +2949,14 @@ label div:first-of-type:not(.location_min-height,.featured){
 	.apart-card{
 	        width: unset;
 	}
+	.display-2{
+        	font-size: 5rem;
+	}
+	.hero_overlay{
+	        width: 100%;
+	        background: rgba(10,10,10,.3);
+	        margin-left: 0;
+	}
 	
 }
 
