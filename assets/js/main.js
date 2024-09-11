@@ -1,7 +1,7 @@
 const menuBtn = document.querySelector(".menu_button");
 const menuItems = document.querySelector(".menu__items");
 const expandBtn = document.querySelectorAll(".expand-btn");
-const menuBtns = document.getElementById("mobile_nav").getElementsByClassName("header_link");
+var menuBtns = document.getElementById("mobile_nav").getElementsByClassName("header_link");
 console.log(menuBtns);
 
 // nav toggle
@@ -17,11 +17,7 @@ expandBtn.forEach((btn) => {
     });
 });
 
-menuBtns.forEach((btn) => {
-    btn.addEventListener("click", () =>{
-        btn.classList.toggle("open");
-    });
-});
-
-
-
+for (var i = 0; i < menuBtns.length; i ++) {
+    menuBtns[i].onclick = menuBtn.classList.toggle("open");
+    menuBtns[i].onclick = menuItems.classList.toggle("open");
+}
