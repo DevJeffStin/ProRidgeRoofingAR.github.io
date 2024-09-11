@@ -18,6 +18,9 @@ expandBtn.forEach((btn) => {
 });
 
 for (var i = 0; i < menuBtns.length; i ++) {
-    menuBtns[i].onclick = menuBtn.classList.toggle("open");
-    menuBtns[i].onclick = menuItems.classList.toggle("open");
+    onclick = function() {
+        menuBtn.classList.toggle("open");
+        menuItems.classList.toggle("open");
+    }
+    
 }
