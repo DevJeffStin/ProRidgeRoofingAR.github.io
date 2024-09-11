@@ -3388,6 +3388,9 @@ label div:first-of-type:not(.location_min-height,.featured){
 	.header_link .fa-brands {
 	    font-size: 90px;
 	}
+	.review-holder{
+		max-width: 400px;
+	}
 }
 
 
@@ -3475,6 +3478,9 @@ label div:first-of-type:not(.location_min-height,.featured){
 	}
 	.location_min-height {
 	  min-height: 120px;
+	}
+	.review-holder{
+		max-width: 300px;
 	}
 }
 
