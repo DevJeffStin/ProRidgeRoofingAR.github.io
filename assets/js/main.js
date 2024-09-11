@@ -10,13 +10,14 @@ menuBtn.addEventListener("click", () =>{
     menuItems.classList.toggle("open");
 });
 
-menuBtns.addEventListener("click", () =>{
-    menuBtn.classList.toggle("open");
-    menuItems.classList.toggle("open");
-});
-
 // Mobile menu expand
 expandBtn.forEach((btn) => {
+    btn.addEventListener("click", () =>{
+        btn.classList.toggle("open");
+    });
+});
+
+menuBtns.forEach((btn) => {
     btn.addEventListener("click", () =>{
         btn.classList.toggle("open");
     });
