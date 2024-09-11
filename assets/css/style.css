@@ -3159,7 +3159,7 @@ label div:first-of-type:not(.location_min-height,.featured){
 		overflow-y: auto;
 		opacity: 0;
 		transform: translateY(-10vh);
-		transition: all 0.5s ease-out;
+		transition: all 0.2s ease-out;
 		z-index:-1;
 	}
 
