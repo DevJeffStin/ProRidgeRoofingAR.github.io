@@ -19,9 +19,11 @@ expandBtn.forEach((btn) => {
 
 for (var i = 0; i < menuBtns.length; i ++) {
     onclick = function() {
-        menuBtn.classList.remove("open");
-        menuItems.classList.remove("open");
-        console.log("click");
+        if(menuBtn.classList.contains("open")){
+            menuBtn.classList.remove("open");
+            menuItems.classList.remove("open");
+            console.log("click");
+        }
     }
     
 }
