@@ -21,6 +21,7 @@ for (var i = 0; i < menuBtns.length; i ++) {
     onclick = function() {
         menuBtn.classList.remove("open");
         menuItems.classList.remove("open");
+        console.log("click");
     }
     
 }
