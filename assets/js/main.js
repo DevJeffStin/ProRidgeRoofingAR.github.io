@@ -19,8 +19,8 @@ expandBtn.forEach((btn) => {
 
 for (var i = 0; i < menuBtns.length; i ++) {
     onclick = function() {
-        menuBtn.classList.toggle("open");
-        menuItems.classList.toggle("open");
+        menuBtn.classList.remove("open");
+        menuItems.classList.remove("open");
     }
     
 }
