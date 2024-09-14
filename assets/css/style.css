@@ -3335,7 +3335,7 @@ label div:first-of-type:not(.location_min-height,.featured){
 	  font-size: 1.3rem;
 	}
 	.swiper-button-next, .swiper-button-prev{
-		display: none;
+	  /*display: none; */
 	}
 	
 	#product-slider .swiper-pagination {
