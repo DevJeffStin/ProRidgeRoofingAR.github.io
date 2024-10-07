@@ -2118,6 +2118,16 @@ video::-webkit-media-controls-panel{
 	    margin: auto 10px;
 }
 
+.hearth-container{
+	position: absolute;
+    	top: 30px;
+    	right: 20px;
+}
+
+.hearth-img{
+
+}
+
 
 .video-section{
 	
